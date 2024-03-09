@@ -6,7 +6,7 @@
 
 💞️ Keen to join forces on web projects that are all about great user experience or innovative fin-tech.
 
-📫 Reach out to me at [Your Email/LinkedIn]. I'm always up for a chat about tech, new ideas, or anything interesting!
+📫 Reach out to me at anbana994@gmail.com/anbana55. I'm always up for a chat about tech, new ideas, or anything interesting!
 
 ⚡ Fun fact: I used to make furniture, which turned out to be a great way to sharpen my design skills for software development. Who knew, right?
 <!---
