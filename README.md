@@ -1,15 +1,11 @@
 👋 Hey there, I’m @Abana55!
 
-👀 I’m really into creating cool stuff with front-end technologies like React. I love finding tech solutions for everyday challenges.
+👀 I specialize in creating innovative solutions using front-end technologies like React. I enjoy leveraging tech to solve everyday challenges.
 
-🌱 Currently diving deeper into React and playing around with Chart.js for fun data visuals.
+🌱 Currently, I'm diving deeper into React and Next.js, and exploring Chart.js for dynamic data visualizations.
 
-💞️ Keen to join forces on web projects that are all about great user experience or innovative fin-tech.
+👀 I'm keen to collaborate on web projects focused on enhancing user experience or innovative fintech solutions.
 
-📫 Reach out to me at anbana994@gmail.com/anbana55. I'm always up for a chat about tech, new ideas, or anything interesting!
+📫 For collaborations or inquiries, please reach out to me at anbana994@gmail.com or via GitHub at @Abana55. Let's chat about tech, new ideas, or any interesting topics!
 
-⚡ Fun fact: I used to make furniture, which turned out to be a great way to sharpen my design skills for software development. Who knew, right?
-<!---
-Abana55/Abana55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I used to craft furniture, a hobby that significantly honed my design skills for software development. Who knew it would be so beneficial?
